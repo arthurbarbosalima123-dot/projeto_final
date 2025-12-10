@@ -127,7 +127,8 @@ A solução atende ao objetivo principal: **criar uma visão unificada dos KPIs 
 * Desenvolver previsão de demanda por cidade.
 * Criar comparativos temporais mais detalhados.
 
+* Link https://arthurbarbosalima123-dot.github.io/portfolio_projetos/
+
 ---
 
-Se quiser, posso também criar **versão em inglês**, **versão resumida**, ou **versão estilizada para GitHub**, com badges, emojis e estrutura mais profissional. Quer?
 
